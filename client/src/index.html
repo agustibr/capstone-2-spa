@@ -22,10 +22,6 @@
 
     <div class="container text-center">
 
-      <% unless Rails.env.production? %>
-        <code><%= Rails.env unless Rails.env.production? %></code>
-      <% end %>
-
         <div class="starter-template" style="padding: 3rem;">
           <h1>Photo Tourist App</h1>
           <p class="lead">
@@ -33,7 +29,7 @@
           </p>
         </div>
 
-        <code>(from app/views/ui/index.html.erb)</code>
+        <code>(from client/src/index.html)</code>
         <div ui-view></div>
         
 
