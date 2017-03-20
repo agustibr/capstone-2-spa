@@ -1,6 +1,7 @@
-# Capstone Project: week 1
+# Capstone Project: week 2 
 
-## Core API Development and Deployment
+## SPA External deployment
 
-+ [production site](https://capstone-1-core-api.herokuapp.com/)
-+ [staging site](https://capstone-1-core-api-staging.herokuapp.com/)
+branches: `gulp` and deployed in `gh-pages`
+
++ go to [dist/index.html](https://agustibr.github.io/capstone-2-spa/dist/)
