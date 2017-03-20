@@ -26,7 +26,7 @@ var buildPath = "client/build";
 //location to place vendor files for use in development
 var vendorBuildPath = buildPath + "/vendor";
 //where the final web application is placed
-var distPath = "public/client";
+var distPath = "dist";
 //location of our vendor packages
 var bowerPath = "bower_components";
 
