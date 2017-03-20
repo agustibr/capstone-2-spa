@@ -1,7 +1,7 @@
 # Capstone Project: week 2 
 
-## SPA External deployment
+## SPA External web client rails
 
-branches: `gulp` and deployed in `gh-pages`
+branch: `external-rails`
 
-+ go to [dist/index.html](https://agustibr.github.io/capstone-2-spa/dist/)
++ [staging external](https://capstone-2-external-rails.herokuapp.com/)
